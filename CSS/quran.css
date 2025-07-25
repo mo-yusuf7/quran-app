@@ -1,0 +1,52 @@
+ body{
+    background-image: url(/img/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: yellow;
+    margin: 0;
+    padding: 0;
+ }
+
+ .quran{
+   max-width: 500px;
+   margin: 40px auto;
+   padding: 20px;
+   background-color: #1f1e1e;
+   border-radius: 50px;
+   box-shadow: #000;
+ }
+.surahitem{
+    background: #2c2c2c;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #000;
+}
+.surahitem h2{
+    margin: 0 0 10px;
+  font-size: 20px;
+  color: #ffe600;
+}
+audio {
+  width: 100%;
+  outline: none;
+  
+}
+
+.footer{
+    background-color:#111;
+    color: #fff;
+    text-align: center;
+    padding: 20px 10px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    border-top: 1px solid #333;
+}
+
+.footer a{
+    text-decoration: underline;
+    font-weight: bold;
+    color: yellow;
+}
